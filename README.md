@@ -1,5 +1,11 @@
 # typescript-lsp
 
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](CHANGELOG.md)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Claude Plugin](https://img.shields.io/badge/claude-plugin-orange.svg)](https://docs.anthropic.com/en/docs/claude-code/plugins)
+[![Marketplace](https://img.shields.io/badge/marketplace-zircote--lsp-purple.svg)](https://github.com/zircote/lsp-marketplace)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 A Claude Code plugin providing comprehensive TypeScript/JavaScript development support through:
 
 - **vtsls LSP** integration for IDE-like features
